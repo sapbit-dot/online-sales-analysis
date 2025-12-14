@@ -1,0 +1,31 @@
+E-Commerce Sales Dashboard – Insights Summary
+
+1. Monthly Revenue Trend (up to August 2018)
+The overall monthly revenue trend shows consistent growth over time, with some fluctuations.
+This indicates steady company growth, with occasional dips likely related to seasonality or holidays.
+
+2. Top 5 Categories by Revenue
+The leading revenue categories are:
+- Beauty & Health
+- Watches & Gifts
+(very small gap from the top category)
+- Home & Bath
+- Sports & Leisure
+- Computers & Accessories
+
+These categories account for the majority of total revenue. Further analysis may reveal drivers such as customer demographics.
+
+3. Orders: Items vs Order Value
+There is high variability between the number of items per order and the total order value.
+Most orders contain a small number of items, with fewer complex or high-item purchases.
+
+4. Top Sellers
+Bubble size represents the number of items sold.
+Some sellers achieve high revenue with relatively few items (high-value sellers).
+Leading seller categories highlight core strengths and partnership opportunities.
+
+Initial Business Recommendations
+1. Focus inventory and marketing on the top 5 revenue-generating categories.
+2. Apply upselling and bundle strategies to multi-category orders.
+3. Identify and support high-value sellers.
+4. Analyze seasonality to optimize inventory and marketing.

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4054ef2c-bf5a-46f7-9a55-4b79f8160512" name="Changes" comment="Initial project setup">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/online-sales-analysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/analysis_results/category_revenue.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/analysis_results/monthly_orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/analysis_results/monthly_sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/analysis_results/order_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/analysis_results/top_products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/analysis_results/top_sellers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cleaned/full_olist_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/full_olist_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/full_olist_data_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/plots/monthly_orders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/plots/monthly_sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/plots/top_categories.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/plots/top_products.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/plots/top_sellers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/full_olist_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/olist_customers_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/olist_geolocation_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/olist_order_items_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/olist_order_payments_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/olist_order_reviews_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/olist_orders_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/olist_products_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/olist_sellers_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/product_category_name_translation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaggle/kaggle.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/dashboard_2x2_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/insights_summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/00_download_and_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/01_data_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/02_sales_trends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/03_dashboard.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Sales Analysis.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="36ZdP2YokTEgG4n1ESMBZNWIC5J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.00_download_and_merge.executor": "Run",
+    "Python.01_data_cleaning.executor": "Run",
+    "Python.02_sales_trends.executor": "Run",
+    "Python.03_dashboard.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sapir/PycharmProjects/online-sales-analysis",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.00_download_and_merge">
+    <configuration name="00_download_and_merge" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="online-sales-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/00_download_and_merge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_data_cleaning" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="online-sales-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PycharmProjects)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/01_data_cleaning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_sales_trends" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="online-sales-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/02_sales_trends.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_dashboard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="online-sales-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PycharmProjects)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/03_dashboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.00_download_and_merge" />
+      <item itemvalue="Python.01_data_cleaning" />
+      <item itemvalue="Python.02_sales_trends" />
+      <item itemvalue="Python.03_dashboard" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03_dashboard" />
+        <item itemvalue="Python.02_sales_trends" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4054ef2c-bf5a-46f7-9a55-4b79f8160512" name="Changes" comment="" />
+      <created>1765217999810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765217999810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project setup" />
+  </component>
+</project>
