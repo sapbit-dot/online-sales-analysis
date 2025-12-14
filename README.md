@@ -30,6 +30,9 @@ It includes data cleaning, aggregation, visualizations, and a 2x2 dashboard summ
 ![Dashboard](reports/dashboard_2x2_final.png)
 
 ---
+> Note:  
+> Raw data files are excluded due to size limitations.  
+> All analyses can be executed starting from **script_02**, which relies on a cleaned dataset already included in the repository.
 
 ## How to Run
 1. Install dependencies:
